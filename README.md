@@ -10,7 +10,7 @@
 ### Analysis of Outcomes Based on Launch Date
 ![TheaterOutcomesVsLaunch](path/to/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
