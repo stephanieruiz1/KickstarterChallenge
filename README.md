@@ -17,7 +17,7 @@ One challenge that can be encountered is to use for the first time pivot chart a
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-  1)The month that launched the most successful theater campaigns was May.
+  1) The month that launched the most successful theater campaigns was May.
    
   2) November through January are bad to launch project. 
 - What can you conclude about the Outcomes based on Goals?
