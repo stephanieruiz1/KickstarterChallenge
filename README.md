@@ -6,7 +6,7 @@ The overview is to perform data analysis on several thousand crowdfunding projec
 The purpose of this project is to help Louise to start a crowfunding campaign. She wants to know how different campaigns are between their launch dates and their fundings goals.To do this , we will be using pivot charts, pivot tables, formulas, Unix Timestamps, and so on.
 ## Analysis and Challenges
 On the first graph, a pivot table and pivot chart was made to show how many projects failed and succeed every year. This is helpfull to find a conclusion in which date will be better to launch a Theater project.
-On the second graph, a function was made to count the "Number Successful,"the "Number Failed," and the "Number Canceled" columns, based on the "outcome," the "goal" using the Subcategory "plays" then a simple graph was made.
+On the second graph, a function was made to count the "Number Successful,the "Number Failed," and the "Number Canceled" based on the "outcome" and the "goal" using the Subcategory "plays" .Then a percentage formula was used to made a simple chart.
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
@@ -29,3 +29,5 @@ One challenge that can be encountered is to use for the first time pivot chart a
 - What are some other possible tables and/or graphs that we could create?
 
   1) Louise also mentioned that she is interesting to see how is the market in Great Britain 
+
+![theater_vs_outcome_GB](theater_vs_outcome_GB.png)
