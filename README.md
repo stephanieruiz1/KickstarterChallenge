@@ -17,14 +17,15 @@ One challenge that can be encountered is to use for the first time pivot chart a
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-  1)The month that launched the most successful theater campaigns was May. 
-  2) May to August all had roughly the same number of failed campaigns launched. 
+  1)The month that launched the most successful theater campaigns was May.
+   
+  2) November through January are bad to launch project. 
 - What can you conclude about the Outcomes based on Goals?
 
-  1)the higher the goal the project was a failure. The project was a succeess when less money was raised.
+  1) The higher the goal the project was a failure. The project was a succeess when less money was raised.
 - What are some limitations of this dataset?
 
-  1)one of the limitions is that we need more information why the campaigns failed, as well as what type of marketing was used.
+  1) One of the limitions is that we need more information why the campaigns failed, as well as what type of marketing was used.
 - What are some other possible tables and/or graphs that we could create?
 
-  1)we can tell looking at the charts that it is better to launch a project in May because based on the data will be successful.
+  1) Louise also mentioned that she is interesting to see how is the market in Great Britain 
